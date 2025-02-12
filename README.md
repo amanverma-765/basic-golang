@@ -1,1 +1,2 @@
-# Enigma is the backend for our latest e-commerce platform
+# Enigma 
+A backend for our latest e-commerce platform
