@@ -1,0 +1,45 @@
+# === Go-specific files ===
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+/tmp/
+
+# Dependency directories (uncomment if you want to commit your dependencies)
+# vendor/
+
+# Go workspace files (if using Go 1.18+ workspaces)
+go.work
+go.work.sum
+
+# Environment variable file
+.env
+
+# === Build directories (if applicable) ===
+/bin/
+/pkg/
+
+# === OS-generated files ===
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# === Editor/IDE directories and files ===
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs (GoLand, IntelliJ, etc.)
+.idea/
+
+# Other editors (optional)
+*.swp
